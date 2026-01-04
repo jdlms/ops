@@ -1,1 +1,3 @@
 - OPNsense
+- memos [memos](https://github.com/usememos/memos)
+- karakeep [karakeep](https://github.com/karakeep-app/karakeep?tab=readme-ov-file)
