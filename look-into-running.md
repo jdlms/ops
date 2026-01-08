@@ -1,3 +1,7 @@
 - OPNsense
 - memos [memos](https://github.com/usememos/memos)
 - karakeep [karakeep](https://github.com/karakeep-app/karakeep?tab=readme-ov-file)
+- [Excalidraw](https://docs.excalidraw.com/docs/introduction/development)
+- [Readeck](https://readeck.org/en/)
+- FreshRSS + Wallabag?
+- 
